@@ -1,0 +1,9 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/googlemaps/android-on-demand-rides-deliveries-samples
+[submodule "provider"]
+	path = provider
+	url = https://github.com/googlemaps/java-on-demand-rides-deliveries-stub-provider
+[submodule "ios"]
+	path = ios
+	url = https://github.com/googlemaps/ios-on-demand-rides-deliveries-samples
