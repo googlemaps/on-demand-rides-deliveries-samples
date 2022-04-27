@@ -7,3 +7,6 @@
 [submodule "ios"]
 	path = ios
 	url = https://github.com/googlemaps/ios-on-demand-rides-deliveries-samples
+[submodule "angular"]
+	path = angular
+	url = https://github.com/googlemaps/angular-on-demand-rides-deliveries-samples
