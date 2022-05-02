@@ -19,7 +19,7 @@ the following command.
 git clone --recursive https://github.com/googlemaps/on-demand-rides-deliveries-samples
 ```
 
-Note that the `--recursive` flag must be specified.
+Note that you must use the `--recursive` flag.
 
 Refer to each component's repository for instructions.
 
