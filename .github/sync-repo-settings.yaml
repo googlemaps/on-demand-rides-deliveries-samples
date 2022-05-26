@@ -35,5 +35,5 @@ branchProtectionRules:
     - 'cla/google'
     - 'snippet-bot check'
     - 'header-check'
-  requisnippet-bot checkwCount: 1
+  requiredApprovingReviewCount: 1
   requiresCodeOwnerReviews: true
