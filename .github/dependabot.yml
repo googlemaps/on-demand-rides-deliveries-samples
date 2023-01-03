@@ -1,0 +1,12 @@
+version: 2
+updates:
+- package-ecosystem: gitsubmodule
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  reviewers:
+    - "ArturoSalazarB16"
+    - "noelle-jung"
+    - "shawnlu-g"
+    - "ShirwaM"
