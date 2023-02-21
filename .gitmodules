@@ -10,3 +10,6 @@
 [submodule "angular"]
 	path = angular
 	url = https://github.com/googlemaps/angular-on-demand-rides-deliveries-samples
+[submodule "react-native-web"]
+	path = react-native-web
+	url = https://github.com/googlemaps/react-on-demand-rides-deliveries-samples.git
