@@ -25,7 +25,7 @@ branchProtectionRules:
   requiredStatusCheckContexts:
     - 'cla/google'
     - 'snippet-bot check'
-    - 'snippet-bot check
+    - 'snippet-bot check'
   requiredApprovingReviewCount: 1
   requiresCodeOwnerReviews: true
 - pattern: master
@@ -35,5 +35,5 @@ branchProtectionRules:
     - 'cla/google'
     - 'snippet-bot check'
     - 'header-check'
-  requisnippet-bot checkwCount: 1
+  requiredApprovingReviewCount: 1
   requiresCodeOwnerReviews: true
